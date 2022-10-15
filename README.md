@@ -1,13 +1,7 @@
 - 👋 Hi, I’m @ergu6
-- 👀 I’m interested in most of games in 2022
-- 🌱 I’m currently learning phyton :D
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me from my mail. "
--  Mine System Specs;
-- NVIDIA GeForce GTX950
-- I7 6700HQ
-- 16GB DDR4 Ram /LENOVO/
-- /LENOVO IDEAPAD 700/
+- Im currently using MacOs monetery and windows 10. (Laptop/LenovoIdeapad 700)
+- If someone neds efi file for Hackintosh send me massage.(Ideapad700)
+- Opel Omega 2000 V8 is the best Excutive car on 2000s
 
 <!---
 ergu6/ergu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
